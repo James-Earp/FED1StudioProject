@@ -68,6 +68,30 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="contact.html" />
+    <Content Include="css\bootstrap-flatly-theme.css" />
+    <Content Include="css\bootstrap-flatly-theme.min.css" />
+    <Content Include="css\custom.css" />
+    <Content Include="favicon.ico" />
+    <Content Include="fonts\glyphicons-halflings-regular.svg" />
+    <Content Include="images\asadasdasdasdasdasd.jpg" />
+    <Content Include="images\asasasasasa.jpg" />
+    <Content Include="images\asdasdasfasdagdqwdsafc.png" />
+    <Content Include="images\chef-hat-with-cutlery-restaurant-symbol %281%29.png" />
+    <Content Include="images\chef-hat-with-cutlery-restaurant-symbol.png" />
+    <Content Include="images\download.jpg" />
+    <Content Include="images\favicon.ico" />
+    <Content Include="images\HP-Hero-Header%402x.jpg" />
+    <Content Include="images\HP-Hero-Header%402x1.jpg" />
+    <Content Include="images\photo-1481931098730-318b6f776db0-2.jpg" />
+    <Content Include="images\photo-1498837167922-ddd27525d352.jpg" />
+    <Content Include="images\photo-1504544750208-dc0358e63f7f-3.jpg" />
+    <Content Include="img\pic1.jpg" />
+    <Content Include="img\pic2.jpg" />
+    <Content Include="img\pic3.jpg" />
+    <Content Include="js\bootstrap.js" />
+    <Content Include="js\bootstrap.min.js" />
+    <Content Include="js\jquerycode.js" />
+    <Content Include="js\npm.js" />
     <Content Include="stylesheets\custom.css" />
     <Content Include="team.html" />
     <Content Include="classes.html" />
@@ -78,6 +102,10 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="fonts\glyphicons-halflings-regular.eot" />
+    <Content Include="fonts\glyphicons-halflings-regular.ttf" />
+    <Content Include="fonts\glyphicons-halflings-regular.woff" />
+    <Content Include="fonts\glyphicons-halflings-regular.woff2" />
     <None Include="packages.config" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
@@ -87,7 +115,6 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="images\" />
     <Folder Include="scripts\" />
   </ItemGroup>
   <PropertyGroup>
