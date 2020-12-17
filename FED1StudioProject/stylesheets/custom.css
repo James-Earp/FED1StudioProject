@@ -112,3 +112,16 @@ header img {
 .footer-down{
     padding-bottom: 1em;
 }
+
+#tealAndBordered {
+    background-color: #04BFBF;
+    border: solid 5px black;
+}
+
+#bigFloatLeft{
+    float: left;
+}
+
+#bigFloatRight {
+    float: right;
+}
